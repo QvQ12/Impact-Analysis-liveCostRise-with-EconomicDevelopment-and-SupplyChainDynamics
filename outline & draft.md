@@ -1,10 +1,17 @@
 [requirements](https://inside.rotman.utoronto.ca/financelab/competition/rotman-datathon/)
+
 [raw data](https://www.dropbox.com/scl/fo/25k6r54tgtoj7sxvavi3x/ANl1v7TfPaVGB6-AJW6f_DA?rlkey=clhrann8xkcgqjbks4xnkhout&e=1&st=xdqhdxxp&dl=0)
 
 Analyze data on cost of living, economic development, and supply chain metrics to explore these dynamics:
+
 1.1. How does the rising cost of living impact supply chain stability and costs?
+
 1.2. What economic and regional factors contribute to cost increases within supply chains?
+
 1.3. How can organizations adapt supply chain strategies to mitigate the effects of rising costs on consumers?
+
+
+
 Teams will utilize a mix of economic, supply chain, and cost-of-living indices to develop insights and propose strategies that help businesses and policymakers maintain supply chain resilience in the face of economic pressures.
 
 
